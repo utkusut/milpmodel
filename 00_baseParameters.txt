@@ -1,0 +1,18 @@
+4 
+413
+1380
+4500.00 900.00 1.50 12.00
+0 40250
+0 11500
+1
+2
+6.00 10.00
+//Number of scheduling periods
+//Number of blocks in the block model file.
+//Number of precedence arcs in the precedence matrix (precedence.txt)
+//metal price, refining cost, mining cost, processing cost, discount rate.
+//mining capacity lower and upper limits
+//processing capacity lower and upper limits
+//grade unit indicator 1 = grade in percent; 2 = grams or troy ounces or pounds per tonne
+// Number of Processing Facilities
+//Processing Costs for Each Facility
